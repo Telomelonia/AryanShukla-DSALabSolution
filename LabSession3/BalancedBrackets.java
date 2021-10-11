@@ -58,11 +58,11 @@ public class BalancedBrackets {
 		String str = sc.next();
 		if(balanced(str))
 		{
-			System.out.println("Brackets are balanced");
+			System.out.println("The entered String has Balanced Brackets");
 		}
 		else
 		{
-			System.out.println("Not balanced");
+			System.out.println("The entered Strings do not contain Balanced Brackets");
 		}
 
 	}
