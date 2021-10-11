@@ -9,7 +9,7 @@ class LongestPath
 		Node leftNode;
 		Node rightNode;
 		int nodeData;
-	};
+	}
 	static Node newNode(int nodeData) 
     {
 		Node temp = new Node();
